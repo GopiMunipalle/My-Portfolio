@@ -19,7 +19,7 @@ function Home() {
             <h1 className="hi-heading">Hi</h1>
             <h1 className="home-name">I'm LeelaGopiKrishna</h1>
             <p className="home-description">
-              I'm a fullstack Developer in specializin in building exceptional
+              I'm a fullstack Developer specializin in building exceptional
               digital experiences. Currently i'm focused on building responsice
               fullstack web applications.
             </p>
