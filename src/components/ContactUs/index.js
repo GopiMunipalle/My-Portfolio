@@ -6,7 +6,6 @@ function ContactUs() {
   return (
     <div className="contact-bg-container">
       <Header />
-      <button className="button">Hire Me</button>
       <div className="contact-container">
         <div className="contact-card">
           <h1>LeelaGopiKrishna Munipalle</h1>
