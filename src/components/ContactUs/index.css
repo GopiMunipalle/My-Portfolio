@@ -27,20 +27,4 @@
   font-size: 17px;
   padding-bottom: 15px;
 }
-.button {
-  background-color: blue;
-  border-radius: 5px;
-  outline: none;
-  border: none;
-  padding: 10px;
-  color: white;
-  font-weight: bold;
-  margin-left: 20px;
-  cursor: pointer;
-  margin-top: 20px;
-}
-@media screen and (min-width: 768px) {
-  .button {
-    margin-top: 0px;
-  }
-}
+
